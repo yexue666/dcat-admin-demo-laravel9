@@ -4,6 +4,7 @@
 
 本项目是[Dcat Admin](https://github.com/jqhph/dcat-admin)的DEMO源码，在线预览[点击这里](http://103.39.211.179:8080/admin)。
 
+感谢原作者的付出
 适配了 laravel9 持续更新,其他没有变动
 
 仓库地址
