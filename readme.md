@@ -1,14 +1,21 @@
-# Dcat Admin
+# dcat-admin-demo-laravel9
+
+# Dcat Admin Demo for Laravel9
 
 本项目是[Dcat Admin](https://github.com/jqhph/dcat-admin)的DEMO源码，在线预览[点击这里](http://103.39.211.179:8080/admin)。
 
+适配了 laravel9 持续更新,其他没有变动
 
 仓库地址
 
-- Github [https://github.com/jqhph/dcat-admin-demo](https://github.com/jqhph/dcat-admin-demo) 
-- Gitee  [https://gitee.com/jqhph/dcat-admin-demo](https://gitee.com/jqhph/dcat-admin-demo) 
+- Github [https://github.com/yexue666/dcat-admin-demo-laravel9](https://github.com/yexue666/dcat-admin-demo-laravel9)
 
 ## 安装
+
+创建项目
+```sh
+git clone https://github.com/yexue666/dcat-admin-demo-laravel9 dcat-admin-demo
+```
 
 运行
 ```shell
